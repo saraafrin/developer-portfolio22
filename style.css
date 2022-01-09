@@ -1,0 +1,36 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-size: 60px;
+    border-left: 5px solid orange;
+    border-radius: 5px;
+}
+.steelblue-color{
+    color: steelblue;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.explore-now-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+h5{
+    font-size: 15px;
+    padding-top: 20px;
+}
